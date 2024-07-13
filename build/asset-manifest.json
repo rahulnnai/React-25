@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/color-generator-react/static/js/main.2b569a50.js",
+    "static/js/453.d48f0ffa.chunk.js": "/color-generator-react/static/js/453.d48f0ffa.chunk.js",
+    "index.html": "/color-generator-react/index.html",
+    "main.2b569a50.js.map": "/color-generator-react/static/js/main.2b569a50.js.map",
+    "453.d48f0ffa.chunk.js.map": "/color-generator-react/static/js/453.d48f0ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b569a50.js"
+  ]
+}
